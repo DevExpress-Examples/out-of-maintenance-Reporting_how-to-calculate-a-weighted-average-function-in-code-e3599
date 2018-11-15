@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CalcWeightedAverage/Form1.cs) (VB: [Form1.vb](./VB/CalcWeightedAverage/Form1.vb))
+* [XtraReport1.cs](./CS/CalcWeightedAverage/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/CalcWeightedAverage/XtraReport1.vb))
+<!-- default file list end -->
 # How to calculate a weighted average function in code
 
 
